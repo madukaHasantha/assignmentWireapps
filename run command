@@ -1,0 +1,29 @@
+# assignmentWireapps
+
+Pharmacy Management system 
+
+
+-------------------------------------------------------------------
+
+
+step 01 : You have to install node modules following command.
+
+
+>>>>  npm install
+
+
+step 02 : You have to install express, bcrypt, body-parser, sqlite3 following commands.
+
+
+>>>> npm install express bcrypt sqlite3 body-parser
+
+
+step 03 : Then run the code following this command
+
+
+>>>> npm run dev
+
+
+
+
+-------------------------------------------------------------
